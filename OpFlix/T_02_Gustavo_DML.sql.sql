@@ -39,6 +39,9 @@ insert into Lancamentos (IdLanc,Titulo,Sinopse,Tipo,DataLanc,Duracao,IdCategoria
 insert into Lancamentos (IdLanc,Titulo,Sinopse,Tipo,DataLanc,Duracao,IdCategoria,IdPlataforma) VALUES(6,'Atividade Paranormal','blablabla','Filme','30-06-2019','03:15:00:000',1,5)
 insert into Lancamentos (IdLanc,Titulo,Sinopse,Tipo,DataLanc,Duracao,IdCategoria,IdPlataforma) VALUES(7,'Sintonia','blablabla','Serie','28-06-2019','03:00:00:000',2,1);
 insert into Lancamentos (IdLanc,Titulo,Sinopse,Tipo,DataLanc,Duracao,IdCategoria,IdPlataforma) VALUES(8,'La Casa de papel 3','blablabla','Serie','28-06-2019','03:00:00:000',2,1);
+insert into Lancamentos (IdLanc,Titulo,Sinopse,Tipo,DataLanc,Duracao,IdCategoria,IdPlataforma) VALUES(9,'Guardioes da galaxia','blablabla','Serie','18-06-2019','03:00:00:000',4,1);
+insert into Lancamentos (IdLanc,Titulo,Sinopse,Tipo,DataLanc,Duracao,IdCategoria,IdPlataforma) VALUES(10,'Guardioes da galaxia 2','blablabla','Serie','08-06-2019','03:00:00:000',4,1);
+insert into Lancamentos (IdLanc,Titulo,Sinopse,Tipo,DataLanc,Duracao,IdCategoria,IdPlataforma) VALUES(11,'American gods','blablabla','Serie','08-06-2019','03:00:00:000',4,1);
 
 
 
