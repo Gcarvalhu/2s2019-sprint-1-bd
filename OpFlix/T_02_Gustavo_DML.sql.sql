@@ -43,6 +43,17 @@ insert into Lancamentos (IdLanc,Titulo,Sinopse,Tipo,DataLanc,Duracao,IdCategoria
 insert into Lancamentos (IdLanc,Titulo,Sinopse,Tipo,DataLanc,Duracao,IdCategoria,IdPlataforma) VALUES(10,'Guardioes da galaxia 2','blablabla','Serie','08-06-2019','03:00:00:000',4,1);
 insert into Lancamentos (IdLanc,Titulo,Sinopse,Tipo,DataLanc,Duracao,IdCategoria,IdPlataforma) VALUES(11,'American gods','blablabla','Serie','08-06-2019','03:00:00:000',4,1);
 
+INSERT INTO Usuarios (IdUsuario,Email,Senha,IdPermissao,Nome) VALUES(5,'Mauricinhodazl@gmail.com',1234,2,'Mauricio');
+
+INSERT INTO Usuarios (IdUsuario,Email,Senha,IdPermissao,Nome,Foto) VALUES(5,'Maul@gmail.com',1234,2,'Mueller','http://www.e-farsas.com/wp-content/uploads/jailson-mendes-meme-2.jpg');
+
+INSERT INTO Usuarios (IdUsuario,Email,Senha,IdPermissao,Nome) VALUES(5,'Mauricin@gmail.com',1234,2,'Jonatan');
+
+INSERT INTO Usuarios (IdUsuario,Email,Senha,IdPermissao,Nome,Foto) VALUES(5,'Mauricinhodaz@gmail.com',1234,2,'rafael','https://i.ytimg.com/vi/B_90wtRcvZw/hqdefault.jpg');
+
+INSERT INTO Usuarios (IdUsuario,Email,Senha,IdPermissao,Nome,Foto) VALUES(5,'Mauricinhoda@gmail.com',1234,2,'Marcelo','https://thumbs.gfycat.com/MistyDesertedHectorsdolphin-poster.jpg');
+
+
 
 
 
